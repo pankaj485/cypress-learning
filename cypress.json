@@ -1,0 +1,15 @@
+{
+    "chromeWebSecurity": false,
+    "env": {
+        "email": "sam_blogs@webdriveruni.com",
+        "first_name": "Sam",
+        "feedback": " this  is just a random feedback for the testing directory ",
+        "webDriverHomePage": "https://www.webdriveruniversity.com/",
+        "automationStoreHomePage": "https://www.automationteststore.com"
+    },
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "configFile": "reporter-config.json"
+    },
+    "video": false
+}
