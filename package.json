@@ -4,6 +4,7 @@
   "description": "",
   "main": "contact-us.js",
   "scripts": {
+    "headless": "npx cypress run",
     "test": "cypress run",
     "junit-merge": "npx junit-merge -d cypress/results/junit -o cypress/results/junit/results.xml",
     "delete-junit-report": "rm -rf cypress/results/junit/results.xml",
