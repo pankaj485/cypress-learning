@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "title": "New article --first ",
+      "description": "the first title body is here and it should be shown in slug",
+      "body": "Share your knowledge and enpower the community by creating a new implementation",
+      "tagList": ["implementations"],
+      "createdAt": "2021-11-24T12:11:08.212Z",
+      "updatedAt": "2021-11-24T12:11:08.212Z",
+      "favorited": false,
+      "favoritesCount": 2494,
+      "author": {
+        "username": "Gerome",
+        "bio": null,
+        "image": "https://api.realworld.io/images/demo-avatar.png",
+        "following": false
+      }
+    },
+    {
+      "title": "New article --first ",
+      "description": "the first title body is here and it should be shown in slug",
+      "body": "Share your knowledge and enpower the community by creating a new implementation",
+      "tagList": ["implementations"],
+      "createdAt": "2021-11-24T12:11:08.212Z",
+      "updatedAt": "2021-11-24T12:11:08.212Z",
+      "favorited": false,
+      "favoritesCount": 2494,
+      "author": {
+        "username": "Gerome",
+        "bio": null,
+        "image": "https://api.realworld.io/images/demo-avatar.png",
+        "following": false
+      }
+    }
+  ],
+  "articlesCount": 2
+}
