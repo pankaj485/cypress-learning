@@ -2,7 +2,7 @@
 
 test case files for cypress test automation learning.
 
-directory `integration > 63 API-XHR` includes different enviornment to run which are used as host servers for the test cases. Clone the repo and install dependencies to execute them.
+directory `integration > 63 API-XHR` includes different enviornment to run which are used as host servers for the test cases. Clone the repo and install dependencies and start as local developement server before running test cases under this directory.
 
 [project related to API testing](https://github.com/qauni/json-server.git)
 
